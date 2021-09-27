@@ -1,0 +1,45 @@
+header{
+    background-color:  rgb(192, 194, 203);
+    font-size: 30px;
+    padding-top: 30px
+
+    
+
+    }
+    
+    hr{
+        border: 3px solid;
+    }
+    a:link{
+    text-decoration: none;
+    color:rgb(8, 8, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+    a:visited{
+        text-decoration: none;
+        color:rgb(8, 8, 8);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    
+    .menu{
+        width: 600px;
+        display: flex;
+        justify-content: space-between;
+        float: right;
+    }
+
+
+
+    .uddannelses-area{
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+body{
+
+    background-color: rgb(125, 127, 121);
+}    

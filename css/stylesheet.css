@@ -1,0 +1,82 @@
+.head-area{
+    color: rgb(85, 90, 136); text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image: url("v");
+    
+}
+
+header{
+background-color: rgb(243, 236, 233);
+font-size: 30px;
+padding-top: 30px
+
+
+}
+
+hr{
+    border: 3px solid;
+}
+a:link{
+text-decoration: none;
+color:rgb(8, 8, 8);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a:visited{
+    text-decoration: none;
+    color:rgb(8, 8, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.menu{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    float: right;
+}
+
+
+ .profilbillede{
+        text-align: center;
+        
+      }
+
+
+.content-area{
+    
+border-bottom: 3px solid black;
+
+}
+
+.overskrift-tekst{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+
+.main-area{
+    
+    width: 50%;
+    float: left;
+    padding-left: 15px;
+    background-color: darkseagreen;
+    box-sizing: border-box;
+}
+
+.sidebar{
+
+    width: 50%;
+    float: right;
+    padding-right: 15px;
+    background-color:darkslategray;
+    box-sizing: border-box;
+}
+
+p1{color: hotpink;}
+p2{color: greenyellow;}

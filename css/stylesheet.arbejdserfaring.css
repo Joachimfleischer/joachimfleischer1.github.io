@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(243, 236, 233);
+    font-size: 30px;
+    padding-top: 30px
+    
+    
+    }
+    
+    hr{
+        border: 3px solid;
+    }
+    a:link{
+    text-decoration: none;
+    color:rgb(8, 8, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+    a:visited{
+        text-decoration: none;
+        color:rgb(8, 8, 8);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    
+    .menu{
+        width: 600px;
+        display: flex;
+        justify-content: space-between;
+        float: right;
+    }
+    
+    body{
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: smaller;
+       background-color: darkblue;
+    }
+
+    .arbejdserfarings-area{
+        background-color: rgb(44, 70, 117);
+        width: 40%;
+        float: left;
+        padding-right: 3%;
+
+    }
+
