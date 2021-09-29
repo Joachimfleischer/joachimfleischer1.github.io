@@ -1,5 +1,7 @@
 header{
     background-color: rgb(5, 12, 144);
+    position: fixed;
+    width: 98%;
     font-size: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
